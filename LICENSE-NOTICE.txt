@@ -1,0 +1,3 @@
+NAFI VPN starter app code: provided as-is for learning and personal project use.
+WireGuard Tunnel Library is a separate dependency licensed under Apache License 2.0.
+WireGuard is a trademark of its respective owner. NAFI VPN is an independent app name and is not an official WireGuard product.
